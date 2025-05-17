@@ -16,5 +16,18 @@ It is a front-end only project created for learning and practicing web developme
 - HTML5
 - CSS3
 
-## 📁 Folder Structure
+## 📁 Project Structure
+
+Amazon-Clone-Project/
+
+- index.html          # Main HTML file (UI)
+- style.css           # CSS styling
+- Images/             # Folder containing all images
+  - hero.jpg        # Banner image for hero section
+  - box1.jpg          # Product category image
+  - box2.jpg          # Product category image
+  - logo.png          # Amazon logo
+  - ...               # Other images used in the layout
+- README.md           # Project documentation
+
 
